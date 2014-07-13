@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/boxen/puppet-steam.png?branch=master)](https://travis-ci.org/boxen/puppet-steam)
 
-Install [Steam](http://store.steampowered.com/), the ultimate entertainement platform.
+Install [Steam](http://store.steampowered.com/), the ultimate entertainment platform.
 
 ## Usage
 
